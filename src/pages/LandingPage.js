@@ -77,17 +77,17 @@ function LandingPage() {
             <div className='bg-gradient-to-br from-teal-900 to-teal-200 h-screen px-7 py-10'>
                 <h1 className='text-white text-6xl font-semibold mt-7'>Our <span className='text-teal-200'>Services</span></h1>
                 <div className='flex flex-row justify-around items-center w-full'>
-                    <div className='bg-white h-fit w-1/4 px-3 py-3 rounded-xl mt-3 animate-bounce'>
+                    <div className='bg-white h-fit w-1/4 px-3 py-3 rounded-xl mt-3'>
                         <h1 className='text-teal-900 font-semibold text-left text-2xl'>Website Development <WebhookOutlinedIcon className='ml-2 font-bold' /></h1>
                         <p className='text-left mt-5 text-teal-700'>Transform your online presence with Tidal Waves Technology! We don't just build websites; we create digital experiences that captivate and convert. Our team of skilled developers is dedicated to turning your vision into a dynamic, user-friendly website that stands out in today's competitive digital landscape. </p>
                     </div>
 
-                    <div className='bg-white h-fit w-1/4 px-3 py-3 rounded-xl mt-36 animate-bounce'>
+                    <div className='bg-white h-fit w-1/4 px-3 py-3 rounded-xl mt-36'>
                         <h1 className='text-teal-900 font-semibold text-left text-2xl'>Mobile Development <PhoneIphoneOutlinedIcon className='ml-2 font-bold' /></h1>
                         <p className='text-left mt-5 text-teal-700'>Unlock the power of mobile with Tidal Waves Technology! In today's fast-paced world, having a mobile presence is no longer optional—it's essential. At Tidal Waves Technology, we specialize in creating innovative, user-friendly mobile applications that drive engagement and deliver results.</p>
                     </div>
 
-                    <div className='bg-white h-fit w-1/4 px-3 py-3 rounded-xl mt-64 animate-bounce'>
+                    <div className='bg-white h-fit w-1/4 px-3 py-3 rounded-xl mt-64'>
                         <h1 className='text-teal-900 font-semibold text-left text-2xl'>Maintenance Services <EngineeringOutlinedIcon className='ml-2 font-bold' /></h1>
                         <p className='text-left mt-5 text-teal-700'>Tidal Waves Technology is your partner beyond project delivery. At Tidal Waves Technology, our commitment to your success doesn’t end with the delivery of your project. We believe in forging long-term partnerships by providing exceptional maintenance services to ensure your digital assets continue to perform at their best.</p>
                     </div>
